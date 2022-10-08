@@ -1,4 +1,6 @@
-## Welcome to my Github-Page [(Ir a Versión en Español)](https://github.com/esterodr)
+## Welcome to my Github-Page 
+
+[(Ir a Versión en Español)](https://github.com/esterodr)
 
 My name is Esteban Rodríguez, I'm an economist and professor of Statistics. For my work and personal projects I use the R programming language. Here I'm sharing some of the things I have done.
 
