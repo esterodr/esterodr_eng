@@ -1,4 +1,4 @@
-<div style="text-align: right">[Versión en Español](https://esterodr.github.io/esterodr/)</div>
+<div style="text-align: right">[Versión en Español](https://github.com/esterodr)</div>
 
 ## Welcome
 
